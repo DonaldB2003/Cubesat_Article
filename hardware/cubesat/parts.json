@@ -1,0 +1,452 @@
+[
+ {
+  "name": "frame_rod_1",
+  "group": "frame",
+  "dir": [
+   -1,
+   -1,
+   0
+  ],
+  "dist": 18.0
+ },
+ {
+  "name": "frame_rod_2",
+  "group": "frame",
+  "dir": [
+   1,
+   -1,
+   0
+  ],
+  "dist": 18.0
+ },
+ {
+  "name": "frame_rod_3",
+  "group": "frame",
+  "dir": [
+   1,
+   1,
+   0
+  ],
+  "dist": 18.0
+ },
+ {
+  "name": "frame_rod_4",
+  "group": "frame",
+  "dir": [
+   -1,
+   1,
+   0
+  ],
+  "dist": 18.0
+ },
+ {
+  "name": "L6_board",
+  "group": "L6",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 0.0
+ },
+ {
+  "name": "L5_board",
+  "group": "L5",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 20.0
+ },
+ {
+  "name": "L4_board",
+  "group": "L4",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "L3_board",
+  "group": "L3",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 60.0
+ },
+ {
+  "name": "L2_board",
+  "group": "L2",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 80.0
+ },
+ {
+  "name": "L1_board",
+  "group": "L1",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 100.0
+ },
+ {
+  "name": "L1_dipole_a",
+  "group": "L1",
+  "dir": [
+   -1,
+   0,
+   0
+  ],
+  "dist": 25.0
+ },
+ {
+  "name": "L1_dipole_b",
+  "group": "L1",
+  "dir": [
+   1,
+   0,
+   0
+  ],
+  "dist": 25.0
+ },
+ {
+  "name": "L1_dipole_clamp",
+  "group": "L1",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 100.0
+ },
+ {
+  "name": "L1_gps_patch",
+  "group": "L1",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 100.0
+ },
+ {
+  "name": "L1_sma",
+  "group": "L1",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 100.0
+ },
+ {
+  "name": "L2_ra02_lora",
+  "group": "L2",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 80.0
+ },
+ {
+  "name": "L2_ra02_shield",
+  "group": "L2",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 80.0
+ },
+ {
+  "name": "L2_pigtail_sma",
+  "group": "L2",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 80.0
+ },
+ {
+  "name": "L3_pi_zero_w",
+  "group": "L3",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 60.0
+ },
+ {
+  "name": "L3_pi_cpu",
+  "group": "L3",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 60.0
+ },
+ {
+  "name": "L3_pi_hdr",
+  "group": "L3",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 60.0
+ },
+ {
+  "name": "L3_pi_sd",
+  "group": "L3",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 60.0
+ },
+ {
+  "name": "L4_mpu6050",
+  "group": "L4",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "L4_bmp280",
+  "group": "L4",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "L4_dht22",
+  "group": "L4",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "L4_ds3231_rtc",
+  "group": "L4",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "L4_torque_rod_x",
+  "group": "L4",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "L4_torque_rod_y",
+  "group": "L4",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "L4_led_red",
+  "group": "L4",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "L4_led_green",
+  "group": "L4",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "L4_led_blue",
+  "group": "L4",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "L5_boost_pmu",
+  "group": "L5",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 20.0
+ },
+ {
+  "name": "L5_terminal_block",
+  "group": "L5",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 20.0
+ },
+ {
+  "name": "L5_mosfet_irfz44n",
+  "group": "L5",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 20.0
+ },
+ {
+  "name": "L5_mosfet_tab",
+  "group": "L5",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 20.0
+ },
+ {
+  "name": "L5_burnwire_post_a",
+  "group": "L5",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 20.0
+ },
+ {
+  "name": "L5_burnwire_post_b",
+  "group": "L5",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 20.0
+ },
+ {
+  "name": "L6_battery_holder",
+  "group": "L6",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 0.0
+ },
+ {
+  "name": "L6_cell_18650",
+  "group": "L6",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 0.0
+ },
+ {
+  "name": "L6_magnet",
+  "group": "L6",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 0.0
+ },
+ {
+  "name": "solar_panel_1",
+  "group": "solar",
+  "dir": [
+   1,
+   0,
+   0
+  ],
+  "dist": 30.0
+ },
+ {
+  "name": "solar_panel_2",
+  "group": "solar",
+  "dir": [
+   -1,
+   0,
+   0
+  ],
+  "dist": 30.0
+ },
+ {
+  "name": "solar_panel_3",
+  "group": "solar",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 30.0
+ },
+ {
+  "name": "solar_panel_4",
+  "group": "solar",
+  "dir": [
+   0,
+   -1,
+   0
+  ],
+  "dist": 30.0
+ },
+ {
+  "name": "frame_bottom_feet",
+  "group": "frame",
+  "dir": [
+   0,
+   0,
+   -1
+  ],
+  "dist": 10.0
+ }
+]

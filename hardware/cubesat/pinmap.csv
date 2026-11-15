@@ -1,0 +1,58 @@
+module,pin,net
+LoRa RA-02,RST,RST
+LoRa RA-02,NSS,NSS
+LoRa RA-02,DIO0,DIO0
+LoRa RA-02,MOSI,MOSI
+LoRa RA-02,MISO,MISO
+LoRa RA-02,SCK,SCK
+LoRa RA-02,3V3,3V3
+LoRa RA-02,GND,GND
+BMP280,SDA,SDA
+BMP280,SCL,SCL
+BMP280,VCC,3V3
+BMP280,GND,GND
+MPU-6050,SDA,SDA
+MPU-6050,SCL,SCL
+MPU-6050,AD0,3V3
+MPU-6050,VCC,3V3
+MPU-6050,GND,GND
+DS3231 RTC,SDA,SDA
+DS3231 RTC,SCL,SCL
+DS3231 RTC,VCC,3V3
+DS3231 RTC,GND,GND
+Raspberry Pi Zero W,GPIO17,RST
+Raspberry Pi Zero W,GPIO8 CE0,NSS
+Raspberry Pi Zero W,GPIO4,DIO0
+Raspberry Pi Zero W,GPIO10 MOSI,MOSI
+Raspberry Pi Zero W,GPIO9 MISO,MISO
+Raspberry Pi Zero W,GPIO11 SCLK,SCK
+Raspberry Pi Zero W,GPIO2 SDA,SDA
+Raspberry Pi Zero W,GPIO3 SCL,SCL
+Raspberry Pi Zero W,3V3,3V3
+Raspberry Pi Zero W,GND,GND
+Raspberry Pi Zero W,GPIO14 TXD,GPS_RX
+Raspberry Pi Zero W,GPIO15 RXD,GPS_TX
+Raspberry Pi Zero W,GPIO24,DHT
+Raspberry Pi Zero W,GPIO18,BURN
+Raspberry Pi Zero W,GPIO23,LED_R
+Raspberry Pi Zero W,GPIO25,LED_G
+Raspberry Pi Zero W,GPIO16,LED_B
+Raspberry Pi Zero W,5V,5V
+Raspberry Pi Zero W,GND,GND
+NEO-6M GPS,TX,GPS_TX
+NEO-6M GPS,RX,GPS_RX
+NEO-6M GPS,VCC,3V3
+NEO-6M GPS,GND,GND
+DHT22,DATA,DHT
+DHT22,VCC,3V3
+DHT22,GND,GND
+Status LEDs,RED anode,LED_R
+Status LEDs,GREEN anode,LED_G
+Status LEDs,BLUE anode,LED_B
+Status LEDs,cathodes,GND
+Burn-wire driver,GATE input,BURN
+Burn-wire driver,VBAT,VBAT
+Burn-wire driver,GND,GND
+Power: 18650 + boost,5V out,5V
+Power: 18650 + boost,BAT+ rail,VBAT
+Power: 18650 + boost,GND,GND

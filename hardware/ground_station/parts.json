@@ -1,0 +1,212 @@
+[
+ {
+  "name": "table_plate",
+  "group": "base",
+  "dir": [
+   0,
+   0,
+   -1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "enc_base",
+  "group": "enclosure",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 0.0
+ },
+ {
+  "name": "enc_lid",
+  "group": "enclosure",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 90.0
+ },
+ {
+  "name": "perfboard",
+  "group": "electronics",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 20.0
+ },
+ {
+  "name": "arduino_nano",
+  "group": "electronics",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "nano_usb",
+  "group": "electronics",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 45.0
+ },
+ {
+  "name": "esp32_devkit",
+  "group": "electronics",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "esp32_module",
+  "group": "electronics",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 50.0
+ },
+ {
+  "name": "ra02_lora",
+  "group": "electronics",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "level_shift_resistors",
+  "group": "electronics",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "status_led_green",
+  "group": "electronics",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 60.0
+ },
+ {
+  "name": "status_led_red",
+  "group": "electronics",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 60.0
+ },
+ {
+  "name": "buzzer",
+  "group": "electronics",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 60.0
+ },
+ {
+  "name": "sma_bulkhead",
+  "group": "electronics",
+  "dir": [
+   1,
+   0,
+   0
+  ],
+  "dist": 60.0
+ },
+ {
+  "name": "usb_cable_stub",
+  "group": "electronics",
+  "dir": [
+   1,
+   0,
+   0
+  ],
+  "dist": 60.0
+ },
+ {
+  "name": "mast_pole",
+  "group": "antenna",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 0.0
+ },
+ {
+  "name": "mast_foot",
+  "group": "antenna",
+  "dir": [
+   0,
+   0,
+   -1
+  ],
+  "dist": 20.0
+ },
+ {
+  "name": "rcs_antenna_reflector",
+  "group": "antenna",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 120.0
+ },
+ {
+  "name": "rcs_antenna_helix",
+  "group": "antenna",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 160.0
+ },
+ {
+  "name": "rcs_antenna_boom",
+  "group": "antenna",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 140.0
+ },
+ {
+  "name": "coax_run",
+  "group": "antenna",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 0.0
+ }
+]

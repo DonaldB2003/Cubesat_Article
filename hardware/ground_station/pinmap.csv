@@ -1,0 +1,39 @@
+module,pin,net
+LoRa RA-02,RST,RST
+LoRa RA-02,NSS,NSS
+LoRa RA-02,DIO0,DIO0
+LoRa RA-02,MOSI,MOSI
+LoRa RA-02,MISO,MISO
+LoRa RA-02,SCK,SCK
+LoRa RA-02,3V3,3V3
+LoRa RA-02,GND,GND
+Level divider 4x,NSS out,NSS
+Level divider 4x,RST out,RST
+Level divider 4x,MOSI out,MOSI
+Level divider 4x,SCK out,SCK
+Level divider 4x,NSS in 5V,NSS(5V)
+Level divider 4x,RST in 5V,RST(5V)
+Level divider 4x,MOSI in 5V,MOSI(5V)
+Level divider 4x,SCK in 5V,SCK(5V)
+Arduino Nano,D10,NSS(5V)
+Arduino Nano,D9,RST(5V)
+Arduino Nano,D11 MOSI,MOSI(5V)
+Arduino Nano,D13 SCK,SCK(5V)
+Arduino Nano,D12 MISO,MISO
+Arduino Nano,D2,DIO0
+Arduino Nano,D3 TX,TX(5V)
+Arduino Nano,D4 RX,RX
+Arduino Nano,D5,LED_G
+Arduino Nano,D6,LED_R
+Arduino Nano,D7,BUZ
+Arduino Nano,GND,GND
+ESP32 DevKit,GPIO16 RX2,TX
+ESP32 DevKit,GPIO17 TX2,RX
+ESP32 DevKit,3V3 out,3V3
+ESP32 DevKit,GND,GND
+Divider for Nano TX,in 5V,TX(5V)
+Divider for Nano TX,out 3V3,TX
+Status + buzzer,GREEN rx,LED_G
+Status + buzzer,RED err,LED_R
+Status + buzzer,buzzer +,BUZ
+Status + buzzer,GND,GND

@@ -1,0 +1,272 @@
+[
+ {
+  "name": "base_plate",
+  "group": "base",
+  "dir": [
+   0,
+   0,
+   -1
+  ],
+  "dist": 40.0
+ },
+ {
+  "name": "mast_leg_1",
+  "group": "mast",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 0.0
+ },
+ {
+  "name": "mast_leg_2",
+  "group": "mast",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 0.0
+ },
+ {
+  "name": "mast_leg_3",
+  "group": "mast",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 0.0
+ },
+ {
+  "name": "mast_leg_4",
+  "group": "mast",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 0.0
+ },
+ {
+  "name": "mast_bracing",
+  "group": "mast",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 0.0
+ },
+ {
+  "name": "enc_enclosure",
+  "group": "enclosure",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 140.0
+ },
+ {
+  "name": "esp32_devkit",
+  "group": "electronics",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 100.0
+ },
+ {
+  "name": "esp32_module",
+  "group": "electronics",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 100.0
+ },
+ {
+  "name": "ra02_lora",
+  "group": "electronics",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 100.0
+ },
+ {
+  "name": "neo6m_gps",
+  "group": "electronics",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 100.0
+ },
+ {
+  "name": "gps_patch",
+  "group": "electronics",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 100.0
+ },
+ {
+  "name": "pmu_board",
+  "group": "electronics",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 70.0
+ },
+ {
+  "name": "battery_18650",
+  "group": "electronics",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 70.0
+ },
+ {
+  "name": "oled_display",
+  "group": "ui",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 180.0
+ },
+ {
+  "name": "oled_screen",
+  "group": "ui",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 180.0
+ },
+ {
+  "name": "sos_button_base",
+  "group": "ui",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 180.0
+ },
+ {
+  "name": "sos_button",
+  "group": "ui",
+  "dir": [
+   0,
+   1,
+   0
+  ],
+  "dist": 200.0
+ },
+ {
+  "name": "beacon_base",
+  "group": "beacon",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 120.0
+ },
+ {
+  "name": "beacon_lamp",
+  "group": "beacon",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 150.0
+ },
+ {
+  "name": "beacon_cap",
+  "group": "beacon",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 160.0
+ },
+ {
+  "name": "rtt_antenna_reflector",
+  "group": "antenna",
+  "dir": [
+   1,
+   0,
+   1
+  ],
+  "dist": 120.0
+ },
+ {
+  "name": "rtt_antenna_helix",
+  "group": "antenna",
+  "dir": [
+   1,
+   0,
+   1
+  ],
+  "dist": 160.0
+ },
+ {
+  "name": "rtt_antenna_boom",
+  "group": "antenna",
+  "dir": [
+   1,
+   0,
+   1
+  ],
+  "dist": 140.0
+ },
+ {
+  "name": "antenna_mast",
+  "group": "antenna",
+  "dir": [
+   0,
+   0,
+   1
+  ],
+  "dist": 90.0
+ },
+ {
+  "name": "solar_panel",
+  "group": "solar",
+  "dir": [
+   -1,
+   0,
+   0
+  ],
+  "dist": 150.0
+ },
+ {
+  "name": "solar_bracket",
+  "group": "solar",
+  "dir": [
+   -1,
+   0,
+   0
+  ],
+  "dist": 150.0
+ }
+]
